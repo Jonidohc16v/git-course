@@ -17,3 +17,9 @@ Don't forget the `git status` to keep track of the current state
     println ("HELLO");
     }
 */
+
+
+## Branching
+
+We use dev branch to work with other developpers without break the "main" code. 
+`git checkout -b dev`
